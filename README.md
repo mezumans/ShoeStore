@@ -1,2 +1,2 @@
 # ShoeStore
-BGU java project - Micro Services
+Micro Service architecture platform for building shoe store
